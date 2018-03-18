@@ -1,0 +1,1 @@
+This repo contains the jupyter notebook for the intermediate visualization drill. Some of the plots took an exceptionally long time to generate due to the size of the dataset, so I have Included a .pdf version of the notebook.
